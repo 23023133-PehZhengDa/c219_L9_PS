@@ -31,7 +31,7 @@ function App() {
       </Routes>
 
       <footer className="container">
-        &copy;2022 | <a href="https://red30tech.com/">Red30 Tech</a>
+        &copy;2022 | <a href="https://www.rp.edu.sg/">Republic Polytechnic</a>
       </footer>
     </div>
   );
