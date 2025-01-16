@@ -9,8 +9,8 @@ export default function Header() {
         <img
           className="logo"
           src="https://sgwiki.com/images/thumb/8/80/Republic_Polytechnic_Logo.jpg/300px-Republic_Polytechnic_Logo.jpg"
-          alt="Red30 Tech logo"
-          title="Red30 Tech | Home"
+          alt="RP Logo"
+          title="Republic Polytechnic | Home"
         />
       </Link>
 
